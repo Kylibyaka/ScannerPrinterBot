@@ -23,7 +23,6 @@ import java.io.IOException;
 public class Bot extends TelegramLongPollingBot{
 
     String pathToSaveFolder = "D://TempFiles//";   //папка куда сохраняются файлы на сервер
-
     String botToken = "731541418:AAFHv_7fzbV05vlFy4BBwwzyE2VNhB0okQc";  //уникальный токен бота для идентификации
     String botName = "ScannerPrinter_bot";
 
